@@ -1,0 +1,1148 @@
+[
+    {
+        "pais": "Afganistán",
+        "codigo": "+93",
+        "bandera": "https://flagcdn.com/af.svg",
+        "abreviatura": "AF"
+    },
+    {
+        "pais": "Albania",
+        "codigo": "+355",
+        "bandera": "https://flagcdn.com/al.svg",
+        "abreviatura": "AL"
+    },
+    {
+        "pais": "Alemania",
+        "codigo": "+49",
+        "bandera": "https://flagcdn.com/de.svg",
+        "abreviatura": "DE"
+    },
+    {
+        "pais": "Andorra",
+        "codigo": "+376",
+        "bandera": "https://flagcdn.com/ad.svg",
+        "abreviatura": "AD"
+    },
+    {
+        "pais": "Angola",
+        "codigo": "+244",
+        "bandera": "https://flagcdn.com/ao.svg",
+        "abreviatura": "AO"
+    },
+    {
+        "pais": "Antigua y Barbuda",
+        "codigo": "+1-268",
+        "bandera": "https://flagcdn.com/ag.svg",
+        "abreviatura": "AG"
+    },
+    {
+        "pais": "Arabia Saudita",
+        "codigo": "+966",
+        "bandera": "https://flagcdn.com/sa.svg",
+        "abreviatura": "SA"
+    },
+    {
+        "pais": "Argelia",
+        "codigo": "+213",
+        "bandera": "https://flagcdn.com/dz.svg",
+        "abreviatura": "DZ"
+    },
+    {
+        "pais": "Argentina",
+        "codigo": "+54",
+        "bandera": "https://flagcdn.com/ar.svg",
+        "abreviatura": "AR"
+    },
+    {
+        "pais": "Armenia",
+        "codigo": "+374",
+        "bandera": "https://flagcdn.com/am.svg",
+        "abreviatura": "AM"
+    },
+    {
+        "pais": "Australia",
+        "codigo": "+61",
+        "bandera": "https://flagcdn.com/au.svg",
+        "abreviatura": "AU"
+    },
+    {
+        "pais": "Austria",
+        "codigo": "+43",
+        "bandera": "https://flagcdn.com/at.svg",
+        "abreviatura": "AT"
+    },
+    {
+        "pais": "Azerbaiyán",
+        "codigo": "+994",
+        "bandera": "https://flagcdn.com/az.svg",
+        "abreviatura": "AZ"
+    },
+    {
+        "pais": "Bahamas",
+        "codigo": "+1-242",
+        "bandera": "https://flagcdn.com/bs.svg",
+        "abreviatura": "BS"
+    },
+    {
+        "pais": "Bahréin",
+        "codigo": "+973",
+        "bandera": "https://flagcdn.com/bh.svg",
+        "abreviatura": "BH"
+    },
+    {
+        "pais": "Bangladesh",
+        "codigo": "+880",
+        "bandera": "https://flagcdn.com/bd.svg",
+        "abreviatura": "BD"
+    },
+    {
+        "pais": "Barbados",
+        "codigo": "+1-246",
+        "bandera": "https://flagcdn.com/bb.svg",
+        "abreviatura": "BB"
+    },
+    {
+        "pais": "Bielorrusia",
+        "codigo": "+375",
+        "bandera": "https://flagcdn.com/by.svg",
+        "abreviatura": "BY"
+    },
+    {
+        "pais": "Bélgica",
+        "codigo": "+32",
+        "bandera": "https://flagcdn.com/be.svg",
+        "abreviatura": "BE"
+    },
+    {
+        "pais": "Belice",
+        "codigo": "+501",
+        "bandera": "https://flagcdn.com/bz.svg",
+        "abreviatura": "BZ"
+    },
+    {
+        "pais": "Benín",
+        "codigo": "+229",
+        "bandera": "https://flagcdn.com/bj.svg",
+        "abreviatura": "BJ"
+    },
+    {
+        "pais": "Bhután",
+        "codigo": "+975",
+        "bandera": "https://flagcdn.com/bt.svg",
+        "abreviatura": "BT"
+    },
+    {
+        "pais": "Bolivia",
+        "codigo": "+591",
+        "bandera": "https://flagcdn.com/bo.svg",
+        "abreviatura": "BO"
+    },
+    {
+        "pais": "Bosnia y Herzegovina",
+        "codigo": "+387",
+        "bandera": "https://flagcdn.com/ba.svg",
+        "abreviatura": "BA"
+    },
+    {
+        "pais": "Botsuana",
+        "codigo": "+267",
+        "bandera": "https://flagcdn.com/bw.svg",
+        "abreviatura": "BW"
+    },
+    {
+        "pais": "Brasil",
+        "codigo": "+55",
+        "bandera": "https://flagcdn.com/br.svg",
+        "abreviatura": "BR"
+    },
+    {
+        "pais": "Brunéi",
+        "codigo": "+673",
+        "bandera": "https://flagcdn.com/bn.svg",
+        "abreviatura": "BN"
+    },
+    {
+        "pais": "Bulgaria",
+        "codigo": "+359",
+        "bandera": "https://flagcdn.com/bg.svg",
+        "abreviatura": "BG"
+    },
+    {
+        "pais": "Burkina Faso",
+        "codigo": "+226",
+        "bandera": "https://flagcdn.com/bf.svg",
+        "abreviatura": "BF"
+    },
+    {
+        "pais": "Burundi",
+        "codigo": "+257",
+        "bandera": "https://flagcdn.com/bi.svg",
+        "abreviatura": "BI"
+    },
+    {
+        "pais": "Bután",
+        "codigo": "+975",
+        "bandera": "https://flagcdn.com/bt.svg",
+        "abreviatura": "BT"
+    },
+    {
+        "pais": "Cabo Verde",
+        "codigo": "+238",
+        "bandera": "https://flagcdn.com/cv.svg",
+        "abreviatura": "CV"
+    },
+    {
+        "pais": "Camboya",
+        "codigo": "+855",
+        "bandera": "https://flagcdn.com/kh.svg",
+        "abreviatura": "KH"
+    },
+    {
+        "pais": "Camerún",
+        "codigo": "+237",
+        "bandera": "https://flagcdn.com/cm.svg",
+        "abreviatura": "CM"
+    },
+    {
+        "pais": "Canadá",
+        "codigo": "+1",
+        "bandera": "https://flagcdn.com/ca.svg",
+        "abreviatura": "CA"
+    },
+    {
+        "pais": "Chad",
+        "codigo": "+235",
+        "bandera": "https://flagcdn.com/td.svg",
+        "abreviatura": "TD"
+    },
+    {
+        "pais": "Chile",
+        "codigo": "+56",
+        "bandera": "https://flagcdn.com/cl.svg",
+        "abreviatura": "CL"
+    },
+    {
+        "pais": "China",
+        "codigo": "+86",
+        "bandera": "https://flagcdn.com/cn.svg",
+        "abreviatura": "CN"
+    },
+    {
+        "pais": "Chipre",
+        "codigo": "+357",
+        "bandera": "https://flagcdn.com/cy.svg",
+        "abreviatura": "CY"
+    },
+    {
+        "pais": "Colombia",
+        "codigo": "+57",
+        "bandera": "https://flagcdn.com/co.svg",
+        "abreviatura": "CO"
+    },
+    {
+        "pais": "Comoras",
+        "codigo": "+269",
+        "bandera": "https://flagcdn.com/km.svg",
+        "abreviatura": "KM"
+    },
+    {
+        "pais": "Congo",
+        "codigo": "+242",
+        "bandera": "https://flagcdn.com/cg.svg",
+        "abreviatura": "CG"
+    },
+    {
+        "pais": "Costa de Marfil",
+        "codigo": "+225",
+        "bandera": "https://flagcdn.com/ci.svg",
+        "abreviatura": "CI"
+    },
+    {
+        "pais": "Costa Rica",
+        "codigo": "+506",
+        "bandera": "https://flagcdn.com/cr.svg",
+        "abreviatura": "CR"
+    },
+    {
+        "pais": "Croacia",
+        "codigo": "+385",
+        "bandera": "https://flagcdn.com/hr.svg",
+        "abreviatura": "HR"
+    },
+    {
+        "pais": "Cuba",
+        "codigo": "+53",
+        "bandera": "https://flagcdn.com/cu.svg",
+        "abreviatura": "CU"
+    },
+    {
+        "pais": "Dinamarca",
+        "codigo": "+45",
+        "bandera": "https://flagcdn.com/dk.svg",
+        "abreviatura": "DK"
+    },
+    {
+        "pais": "Dominica",
+        "codigo": "+1-767",
+        "bandera": "https://flagcdn.com/dm.svg",
+        "abreviatura": "DM"
+    },
+    {
+        "pais": "Ecuador",
+        "codigo": "+593",
+        "bandera": "https://flagcdn.com/ec.svg",
+        "abreviatura": "EC"
+    },
+    {
+        "pais": "Egipto",
+        "codigo": "+20",
+        "bandera": "https://flagcdn.com/eg.svg",
+        "abreviatura": "EG"
+    },
+    {
+        "pais": "El Salvador",
+        "codigo": "+503",
+        "bandera": "https://flagcdn.com/sv.svg",
+        "abreviatura": "SV"
+    },
+    {
+        "pais": "Emiratos Árabes Unidos",
+        "codigo": "+971",
+        "bandera": "https://flagcdn.com/ae.svg",
+        "abreviatura": "AE"
+    },
+    {
+        "pais": "Eritrea",
+        "codigo": "+291",
+        "bandera": "https://flagcdn.com/er.svg",
+        "abreviatura": "ER"
+    },
+    {
+        "pais": "Eslovaquia",
+        "codigo": "+421",
+        "bandera": "https://flagcdn.com/sk.svg",
+        "abreviatura": "SK"
+    },
+    {
+        "pais": "Eslovenia",
+        "codigo": "+386",
+        "bandera": "https://flagcdn.com/si.svg",
+        "abreviatura": "SI"
+    },
+    {
+        "pais": "España",
+        "codigo": "+34",
+        "bandera": "https://flagcdn.com/es.svg",
+        "abreviatura": "ES"
+    },
+    {
+        "pais": "Estados Unidos",
+        "codigo": "+1",
+        "bandera": "https://flagcdn.com/us.svg",
+        "abreviatura": "US"
+    },
+    {
+        "pais": "Estonia",
+        "codigo": "+372",
+        "bandera": "https://flagcdn.com/ee.svg",
+        "abreviatura": "EE"
+    },
+    {
+        "pais": "Etiopía",
+        "codigo": "+251",
+        "bandera": "https://flagcdn.com/et.svg",
+        "abreviatura": "ET"
+    },
+    {
+        "pais": "Filipinas",
+        "codigo": "+63",
+        "bandera": "https://flagcdn.com/ph.svg",
+        "abreviatura": "PH"
+    },
+    {
+        "pais": "Finlandia",
+        "codigo": "+358",
+        "bandera": "https://flagcdn.com/fi.svg",
+        "abreviatura": "FI"
+    },
+    {
+        "pais": "Fiyi",
+        "codigo": "+679",
+        "bandera": "https://flagcdn.com/fj.svg",
+        "abreviatura": "FJ"
+    },
+    {
+        "pais": "Francia",
+        "codigo": "+33",
+        "bandera": "https://flagcdn.com/fr.svg",
+        "abreviatura": "FR"
+    },
+    {
+        "pais": "Gabón",
+        "codigo": "+241",
+        "bandera": "https://flagcdn.com/ga.svg",
+        "abreviatura": "GA"
+    },
+    {
+        "pais": "Gambia",
+        "codigo": "+220",
+        "bandera": "https://flagcdn.com/gm.svg",
+        "abreviatura": "GM"
+    },
+    {
+        "pais": "Georgia",
+        "codigo": "+995",
+        "bandera": "https://flagcdn.com/ge.svg",
+        "abreviatura": "GE"
+    },
+    {
+        "pais": "Ghana",
+        "codigo": "+233",
+        "bandera": "https://flagcdn.com/gh.svg",
+        "abreviatura": "GH"
+    },
+    {
+        "pais": "Granada",
+        "codigo": "+1-473",
+        "bandera": "https://flagcdn.com/gd.svg",
+        "abreviatura": "GD"
+    },
+    {
+        "pais": "Grecia",
+        "codigo": "+30",
+        "bandera": "https://flagcdn.com/gr.svg",
+        "abreviatura": "GR"
+    },
+    {
+        "pais": "Guatemala",
+        "codigo": "+502",
+        "bandera": "https://flagcdn.com/gt.svg",
+        "abreviatura": "GT"
+    },
+    {
+        "pais": "Guinea",
+        "codigo": "+224",
+        "bandera": "https://flagcdn.com/gn.svg",
+        "abreviatura": "GN"
+    },
+    {
+        "pais": "Guinea Ecuatorial",
+        "codigo": "+240",
+        "bandera": "https://flagcdn.com/gq.svg",
+        "abreviatura": "GQ"
+    },
+    {
+        "pais": "Guinea-Bissau",
+        "codigo": "+245",
+        "bandera": "https://flagcdn.com/gw.svg",
+        "abreviatura": "GW"
+    },
+    {
+        "pais": "Guyana",
+        "codigo": "+592",
+        "bandera": "https://flagcdn.com/gy.svg",
+        "abreviatura": "GY"
+    },
+    {
+        "pais": "Haití",
+        "codigo": "+509",
+        "bandera": "https://flagcdn.com/ht.svg",
+        "abreviatura": "HT"
+    },
+    {
+        "pais": "Honduras",
+        "codigo": "+504",
+        "bandera": "https://flagcdn.com/hn.svg",
+        "abreviatura": "HN"
+    },
+    {
+        "pais": "Hungría",
+        "codigo": "+36",
+        "bandera": "https://flagcdn.com/hu.svg",
+        "abreviatura": "HU"
+    },
+    {
+        "pais": "India",
+        "codigo": "+91",
+        "bandera": "https://flagcdn.com/in.svg",
+        "abreviatura": "IN"
+    },
+    {
+        "pais": "Indonesia",
+        "codigo": "+62",
+        "bandera": "https://flagcdn.com/id.svg",
+        "abreviatura": "ID"
+    },
+    {
+        "pais": "Irak",
+        "codigo": "+964",
+        "bandera": "https://flagcdn.com/iq.svg",
+        "abreviatura": "IQ"
+    },
+    {
+        "pais": "Irán",
+        "codigo": "+98",
+        "bandera": "https://flagcdn.com/ir.svg",
+        "abreviatura": "IR"
+    },
+    {
+        "pais": "Irlanda",
+        "codigo": "+353",
+        "bandera": "https://flagcdn.com/ie.svg",
+        "abreviatura": "IE"
+    },
+    {
+        "pais": "Islandia",
+        "codigo": "+354",
+        "bandera": "https://flagcdn.com/is.svg",
+        "abreviatura": "IS"
+    },
+    {
+        "pais": "Islas Cook",
+        "codigo": "+682",
+        "bandera": "https://flagcdn.com/ck.svg",
+        "abreviatura": "CK"
+    },
+    {
+        "pais": "Islas Marshall",
+        "codigo": "+692",
+        "bandera": "https://flagcdn.com/mh.svg",
+        "abreviatura": "MH"
+    },
+    {
+        "pais": "Islas Salomón",
+        "codigo": "+677",
+        "bandera": "https://flagcdn.com/sb.svg",
+        "abreviatura": "SB"
+    },
+    {
+        "pais": "Israel",
+        "codigo": "+972",
+        "bandera": "https://flagcdn.com/il.svg",
+        "abreviatura": "IL"
+    },
+    {
+        "pais": "Italia",
+        "codigo": "+39",
+        "bandera": "https://flagcdn.com/it.svg",
+        "abreviatura": "IT"
+    },
+    {
+        "pais": "Jamaica",
+        "codigo": "+1-876",
+        "bandera": "https://flagcdn.com/jm.svg",
+        "abreviatura": "JM"
+    },
+    {
+        "pais": "Japón",
+        "codigo": "+81",
+        "bandera": "https://flagcdn.com/jp.svg",
+        "abreviatura": "JP"
+    },
+    {
+        "pais": "Jordania",
+        "codigo": "+962",
+        "bandera": "https://flagcdn.com/jo.svg",
+        "abreviatura": "JO"
+    },
+    {
+        "pais": "Kazajistán",
+        "codigo": "+7",
+        "bandera": "https://flagcdn.com/kz.svg",
+        "abreviatura": "KZ"
+    },
+    {
+        "pais": "Kenia",
+        "codigo": "+254",
+        "bandera": "https://flagcdn.com/ke.svg",
+        "abreviatura": "KE"
+    },
+    {
+        "pais": "Kirguistán",
+        "codigo": "+996",
+        "bandera": "https://flagcdn.com/kg.svg",
+        "abreviatura": "KG"
+    },
+    {
+        "pais": "Kiribati",
+        "codigo": "+686",
+        "bandera": "https://flagcdn.com/ki.svg",
+        "abreviatura": "KI"
+    },
+    {
+        "pais": "Kuwait",
+        "codigo": "+965",
+        "bandera": "https://flagcdn.com/kw.svg",
+        "abreviatura": "KW"
+    },
+    {
+        "pais": "Laos",
+        "codigo": "+856",
+        "bandera": "https://flagcdn.com/la.svg",
+        "abreviatura": "LA"
+    },
+    {
+        "pais": "Lesoto",
+        "codigo": "+266",
+        "bandera": "https://flagcdn.com/ls.svg",
+        "abreviatura": "LS"
+    },
+    {
+        "pais": "Letonia",
+        "codigo": "+371",
+        "bandera": "https://flagcdn.com/lv.svg",
+        "abreviatura": "LV"
+    },
+    {
+        "pais": "Líbano",
+        "codigo": "+961",
+        "bandera": "https://flagcdn.com/lb.svg",
+        "abreviatura": "LB"
+    },
+    {
+        "pais": "Liberia",
+        "codigo": "+231",
+        "bandera": "https://flagcdn.com/lr.svg",
+        "abreviatura": "LR"
+    },
+    {
+        "pais": "Libia",
+        "codigo": "+218",
+        "bandera": "https://flagcdn.com/ly.svg",
+        "abreviatura": "LY"
+    },
+    {
+        "pais": "Liechtenstein",
+        "codigo": "+423",
+        "bandera": "https://flagcdn.com/li.svg",
+        "abreviatura": "LI"
+    },
+    {
+        "pais": "Lituania",
+        "codigo": "+370",
+        "bandera": "https://flagcdn.com/lt.svg",
+        "abreviatura": "LT"
+    },
+    {
+        "pais": "Luxemburgo",
+        "codigo": "+352",
+        "bandera": "https://flagcdn.com/lu.svg",
+        "abreviatura": "LU"
+    },
+    {
+        "pais": "Madagascar",
+        "codigo": "+261",
+        "bandera": "https://flagcdn.com/mg.svg",
+        "abreviatura": "MG"
+    },
+    {
+        "pais": "Malasia",
+        "codigo": "+60",
+        "bandera": "https://flagcdn.com/my.svg",
+        "abreviatura": "MY"
+    },
+    {
+        "pais": "Malaui",
+        "codigo": "+265",
+        "bandera": "https://flagcdn.com/mw.svg",
+        "abreviatura": "MW"
+    },
+    {
+        "pais": "Maldivas",
+        "codigo": "+960",
+        "bandera": "https://flagcdn.com/mv.svg",
+        "abreviatura": "MV"
+    },
+    {
+        "pais": "Malí",
+        "codigo": "+223",
+        "bandera": "https://flagcdn.com/ml.svg",
+        "abreviatura": "ML"
+    },
+    {
+        "pais": "Malta",
+        "codigo": "+356",
+        "bandera": "https://flagcdn.com/mt.svg",
+        "abreviatura": "MT"
+    },
+    {
+        "pais": "Marruecos",
+        "codigo": "+212",
+        "bandera": "https://flagcdn.com/ma.svg",
+        "abreviatura": "MA"
+    },
+    {
+        "pais": "Mauricio",
+        "codigo": "+230",
+        "bandera": "https://flagcdn.com/mu.svg",
+        "abreviatura": "MU"
+    },
+    {
+        "pais": "Mauritania",
+        "codigo": "+222",
+        "bandera": "https://flagcdn.com/mr.svg",
+        "abreviatura": "MR"
+    },
+    {
+        "pais": "México",
+        "codigo": "+52",
+        "bandera": "https://flagcdn.com/mx.svg",
+        "abreviatura": "MX"
+    },
+    {
+        "pais": "Micronesia",
+        "codigo": "+691",
+        "bandera": "https://flagcdn.com/fm.svg",
+        "abreviatura": "FM"
+    },
+    {
+        "pais": "Moldavia",
+        "codigo": "+373",
+        "bandera": "https://flagcdn.com/md.svg",
+        "abreviatura": "MD"
+    },
+    {
+        "pais": "Mónaco",
+        "codigo": "+377",
+        "bandera": "https://flagcdn.com/mc.svg",
+        "abreviatura": "MC"
+    },
+    {
+        "pais": "Mongolia",
+        "codigo": "+976",
+        "bandera": "https://flagcdn.com/mn.svg",
+        "abreviatura": "MN"
+    },
+    {
+        "pais": "Montenegro",
+        "codigo": "+382",
+        "bandera": "https://flagcdn.com/me.svg",
+        "abreviatura": "ME"
+    },
+    {
+        "pais": "Mozambique",
+        "codigo": "+258",
+        "bandera": "https://flagcdn.com/mz.svg",
+        "abreviatura": "MZ"
+    },
+    {
+        "pais": "Namibia",
+        "codigo": "+264",
+        "bandera": "https://flagcdn.com/na.svg",
+        "abreviatura": "NA"
+    },
+    {
+        "pais": "Nauru",
+        "codigo": "+674",
+        "bandera": "https://flagcdn.com/nr.svg",
+        "abreviatura": "NR"
+    },
+    {
+        "pais": "Nepal",
+        "codigo": "+977",
+        "bandera": "https://flagcdn.com/np.svg",
+        "abreviatura": "NP"
+    },
+    {
+        "pais": "Nicaragua",
+        "codigo": "+505",
+        "bandera": "https://flagcdn.com/ni.svg",
+        "abreviatura": "NI"
+    },
+    {
+        "pais": "Níger",
+        "codigo": "+227",
+        "bandera": "https://flagcdn.com/ne.svg",
+        "abreviatura": "NE"
+    },
+    {
+        "pais": "Nigeria",
+        "codigo": "+234",
+        "bandera": "https://flagcdn.com/ng.svg",
+        "abreviatura": "NG"
+    },
+    {
+        "pais": "Noruega",
+        "codigo": "+47",
+        "bandera": "https://flagcdn.com/no.svg",
+        "abreviatura": "NO"
+    },
+    {
+        "pais": "Nueva Zelanda",
+        "codigo": "+64",
+        "bandera": "https://flagcdn.com/nz.svg",
+        "abreviatura": "NZ"
+    },
+    {
+        "pais": "Omán",
+        "codigo": "+968",
+        "bandera": "https://flagcdn.com/om.svg",
+        "abreviatura": "OM"
+    },
+    {
+        "pais": "Países Bajos",
+        "codigo": "+31",
+        "bandera": "https://flagcdn.com/nl.svg",
+        "abreviatura": "NL"
+    },
+    {
+        "pais": "Pakistán",
+        "codigo": "+92",
+        "bandera": "https://flagcdn.com/pk.svg",
+        "abreviatura": "PK"
+    },
+    {
+        "pais": "Palaos",
+        "codigo": "+680",
+        "bandera": "https://flagcdn.com/pw.svg",
+        "abreviatura": "PW"
+    },
+    {
+        "pais": "Panamá",
+        "codigo": "+507",
+        "bandera": "https://flagcdn.com/pa.svg",
+        "abreviatura": "PA"
+    },
+    {
+        "pais": "Papúa Nueva Guinea",
+        "codigo": "+675",
+        "bandera": "https://flagcdn.com/pg.svg",
+        "abreviatura": "PG"
+    },
+    {
+        "pais": "Paraguay",
+        "codigo": "+595",
+        "bandera": "https://flagcdn.com/py.svg",
+        "abreviatura": "PY"
+    },
+    {
+        "pais": "Perú",
+        "codigo": "+51",
+        "bandera": "https://flagcdn.com/pe.svg",
+        "abreviatura": "PE"
+    },
+    {
+        "pais": "Polonia",
+        "codigo": "+48",
+        "bandera": "https://flagcdn.com/pl.svg",
+        "abreviatura": "PL"
+    },
+    {
+        "pais": "Portugal",
+        "codigo": "+351",
+        "bandera": "https://flagcdn.com/pt.svg",
+        "abreviatura": "PT"
+    },
+    {
+        "pais": "Reino Unido",
+        "codigo": "+44",
+        "bandera": "https://flagcdn.com/gb.svg",
+        "abreviatura": "GB"
+    },
+    {
+        "pais": "República Centroafricana",
+        "codigo": "+236",
+        "bandera": "https://flagcdn.com/cf.svg",
+        "abreviatura": "CF"
+    },
+    {
+        "pais": "República Checa",
+        "codigo": "+420",
+        "bandera": "https://flagcdn.com/cz.svg",
+        "abreviatura": "CZ"
+    },
+    {
+        "pais": "República Democrática del Congo",
+        "codigo": "+243",
+        "bandera": "https://flagcdn.com/cd.svg",
+        "abreviatura": "CD"
+    },
+    {
+        "pais": "República Dominicana",
+        "codigo": "+1-809, +1-829, +1-849",
+        "bandera": "https://flagcdn.com/do.svg",
+        "abreviatura": "DO"
+    },
+    {
+        "pais": "Ruanda",
+        "codigo": "+250",
+        "bandera": "https://flagcdn.com/rw.svg",
+        "abreviatura": "RW"
+    },
+    {
+        "pais": "Rumania",
+        "codigo": "+40",
+        "bandera": "https://flagcdn.com/ro.svg",
+        "abreviatura": "RO"
+    },
+    {
+        "pais": "Rusia",
+        "codigo": "+7",
+        "bandera": "https://flagcdn.com/ru.svg",
+        "abreviatura": "RU"
+    },
+    {
+        "pais": "Samoa",
+        "codigo": "+685",
+        "bandera": "https://flagcdn.com/ws.svg",
+        "abreviatura": "WS"
+    },
+    {
+        "pais": "San Cristóbal y Nieves",
+        "codigo": "+1-869",
+        "bandera": "https://flagcdn.com/kn.svg",
+        "abreviatura": "KN"
+    },
+    {
+        "pais": "San Marino",
+        "codigo": "+378",
+        "bandera": "https://flagcdn.com/sm.svg",
+        "abreviatura": "SM"
+    },
+    {
+        "pais": "San Vicente y las Granadinas",
+        "codigo": "+1-784",
+        "bandera": "https://flagcdn.com/vc.svg",
+        "abreviatura": "VC"
+    },
+    {
+        "pais": "Santa Lucía",
+        "codigo": "+1-758",
+        "bandera": "https://flagcdn.com/lc.svg",
+        "abreviatura": "LC"
+    },
+    {
+        "pais": "Santo Tomé y Príncipe",
+        "codigo": "+239",
+        "bandera": "https://flagcdn.com/st.svg",
+        "abreviatura": "ST"
+    },
+    {
+        "pais": "Senegal",
+        "codigo": "+221",
+        "bandera": "https://flagcdn.com/sn.svg",
+        "abreviatura": "SN"
+    },
+    {
+        "pais": "Serbia",
+        "codigo": "+381",
+        "bandera": "https://flagcdn.com/rs.svg",
+        "abreviatura": "RS"
+    },
+    {
+        "pais": "Seychelles",
+        "codigo": "+248",
+        "bandera": "https://flagcdn.com/sc.svg",
+        "abreviatura": "SC"
+    },
+    {
+        "pais": "Sierra Leona",
+        "codigo": "+232",
+        "bandera": "https://flagcdn.com/sl.svg",
+        "abreviatura": "SL"
+    },
+    {
+        "pais": "Singapur",
+        "codigo": "+65",
+        "bandera": "https://flagcdn.com/sg.svg",
+        "abreviatura": "SG"
+    },
+    {
+        "pais": "Siria",
+        "codigo": "+963",
+        "bandera": "https://flagcdn.com/sy.svg",
+        "abreviatura": "SY"
+    },
+    {
+        "pais": "Somalia",
+        "codigo": "+252",
+        "bandera": "https://flagcdn.com/so.svg",
+        "abreviatura": "SO"
+    },
+    {
+        "pais": "Sri Lanka",
+        "codigo": "+94",
+        "bandera": "https://flagcdn.com/lk.svg",
+        "abreviatura": "LK"
+    },
+    {
+        "pais": "Suazilandia",
+        "codigo": "+268",
+        "bandera": "https://flagcdn.com/sz.svg",
+        "abreviatura": "SZ"
+    },
+    {
+        "pais": "Sudáfrica",
+        "codigo": "+27",
+        "bandera": "https://flagcdn.com/za.svg",
+        "abreviatura": "ZA"
+    },
+    {
+        "pais": "Sudán",
+        "codigo": "+249",
+        "bandera": "https://flagcdn.com/sd.svg",
+        "abreviatura": "SD"
+    },
+    {
+        "pais": "Sudán del Sur",
+        "codigo": "+211",
+        "bandera": "https://flagcdn.com/ss.svg",
+        "abreviatura": "SS"
+    },
+    {
+        "pais": "Suecia",
+        "codigo": "+46",
+        "bandera": "https://flagcdn.com/se.svg",
+        "abreviatura": "SE"
+    },
+    {
+        "pais": "Suiza",
+        "codigo": "+41",
+        "bandera": "https://flagcdn.com/ch.svg",
+        "abreviatura": "CH"
+    },
+    {
+        "pais": "Surinam",
+        "codigo": "+597",
+        "bandera": "https://flagcdn.com/sr.svg",
+        "abreviatura": "SR"
+    },
+    {
+        "pais": "Tailandia",
+        "codigo": "+66",
+        "bandera": "https://flagcdn.com/th.svg",
+        "abreviatura": "TH"
+    },
+    {
+        "pais": "Tanzania",
+        "codigo": "+255",
+        "bandera": "https://flagcdn.com/tz.svg",
+        "abreviatura": "TZ"
+    },
+    {
+        "pais": "Tayikistán",
+        "codigo": "+992",
+        "bandera": "https://flagcdn.com/tj.svg",
+        "abreviatura": "TJ"
+    },
+    {
+        "pais": "Timor Oriental",
+        "codigo": "+670",
+        "bandera": "https://flagcdn.com/tl.svg",
+        "abreviatura": "TL"
+    },
+    {
+        "pais": "Togo",
+        "codigo": "+228",
+        "bandera": "https://flagcdn.com/tg.svg",
+        "abreviatura": "TG"
+    },
+    {
+        "pais": "Tonga",
+        "codigo": "+676",
+        "bandera": "https://flagcdn.com/to.svg",
+        "abreviatura": "TO"
+    },
+    {
+        "pais": "Trinidad y Tobago",
+        "codigo": "+1-868",
+        "bandera": "https://flagcdn.com/tt.svg",
+        "abreviatura": "TT"
+    },
+    {
+        "pais": "Túnez",
+        "codigo": "+216",
+        "bandera": "https://flagcdn.com/tn.svg",
+        "abreviatura": "TN"
+    },
+    {
+        "pais": "Turkmenistán",
+        "codigo": "+993",
+        "bandera": "https://flagcdn.com/tm.svg",
+        "abreviatura": "TM"
+    },
+    {
+        "pais": "Turquía",
+        "codigo": "+90",
+        "bandera": "https://flagcdn.com/tr.svg",
+        "abreviatura": "TR"
+    },
+    {
+        "pais": "Tuvalu",
+        "codigo": "+688",
+        "bandera": "https://flagcdn.com/tv.svg",
+        "abreviatura": "TV"
+    },
+    {
+        "pais": "Ucrania",
+        "codigo": "+380",
+        "bandera": "https://flagcdn.com/ua.svg",
+        "abreviatura": "UA"
+    },
+    {
+        "pais": "Uganda",
+        "codigo": "+256",
+        "bandera": "https://flagcdn.com/ug.svg",
+        "abreviatura": "UG"
+    },
+    {
+        "pais": "Uruguay",
+        "codigo": "+598",
+        "bandera": "https://flagcdn.com/uy.svg",
+        "abreviatura": "UY"
+    },
+    {
+        "pais": "Uzbekistán",
+        "codigo": "+998",
+        "bandera": "https://flagcdn.com/uz.svg",
+        "abreviatura": "UZ"
+    },
+    {
+        "pais": "Vanuatu",
+        "codigo": "+678",
+        "bandera": "https://flagcdn.com/vu.svg",
+        "abreviatura": "VU"
+    },
+    {
+        "pais": "Vaticano",
+        "codigo": "+379",
+        "bandera": "https://flagcdn.com/va.svg",
+        "abreviatura": "VA"
+    },
+    {
+        "pais": "Venezuela",
+        "codigo": "+58",
+        "bandera": "https://flagcdn.com/ve.svg",
+        "abreviatura": "VE"
+    },
+    {
+        "pais": "Vietnam",
+        "codigo": "+84",
+        "bandera": "https://flagcdn.com/vn.svg",
+        "abreviatura": "VN"
+    },
+    {
+        "pais": "Yemen",
+        "codigo": "+967",
+        "bandera": "https://flagcdn.com/ye.svg",
+        "abreviatura": "YE"
+    },
+    {
+        "pais": "Yibuti",
+        "codigo": "+253",
+        "bandera": "https://flagcdn.com/dj.svg",
+        "abreviatura": "DJ"
+    },
+    {
+        "pais": "Zambia",
+        "codigo": "+260",
+        "bandera": "https://flagcdn.com/zm.svg",
+        "abreviatura": "ZM"
+    },
+    {
+        "pais": "Zimbabue",
+        "codigo": "+263",
+        "bandera": "https://flagcdn.com/zw.svg",
+        "abreviatura": "ZW"
+    }
+]
